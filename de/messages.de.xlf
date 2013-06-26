@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="de" datatype="plaintext" original="file.ext">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
     <body>
-      <trans-unit id="10a002132842ce62ee74a325510dcf8c" resname="default.hello.message">
+      <trans-unit id="10a002132842ce62ee74a325510dcf8c" resname="default.hello.message" approved="yes">
         <source>default.hello.message</source>
-        <target>__default.hello.message</target>
+        <target state="translated">Hallo</target>
       </trans-unit>
     </body>
   </file>
