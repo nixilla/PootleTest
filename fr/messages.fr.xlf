@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="10a002132842ce62ee74a325510dcf8c" resname="default.hello.message" approved="yes">
         <source>default.hello.message</source>
-        <target state="translated">Bonjour</target>
+        <target state="translated">Bonjours</target>
       </trans-unit>
     </body>
   </file>
